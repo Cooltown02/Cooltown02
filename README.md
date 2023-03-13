@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cooltown02
 - 👀 I’m interested in Gaming and Guitar
-- 🌱 I’m currently learning Python and Programming Fundamentals
-- 💞️ I’m looking to collaborate on Things and Maybe even Stuff
+- 🌱 I’m currently learning Python, C++, Java, HTML, CSS, and some networking
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
